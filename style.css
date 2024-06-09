@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  background-color: #ff0067;
+  padding: 20px;
+  line-height: 45px;
+  margin-bottom: 0;
+}
+h2 {
+  text-align: center;
+  background: bisque;
+}
+
+table.\31 {
+  width: 100%;
+  background: brown;
+  text-align: center;
+  line-height: 2;
+}
+table.\32 {
+  text-align: center;
+  border-style: solid;
+  background: crimson;
+  width: 80%;
+  margin: auto;
+  line-height: 2;
+}
